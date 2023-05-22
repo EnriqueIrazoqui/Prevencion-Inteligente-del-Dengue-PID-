@@ -10,4 +10,5 @@ Proyecto en Google Colab -> [Prevención Inteligente de Dengue (PID).](https://c
 ***Ignorar el primer cuadro de código, ya que este lo usamos para conectarnos a Drive y tener acceso a las bases de datos que tenemos en una unidad compartida.***
 
 En el segundo cuadro de código se debe poner la dirección donde se encuentran las bases de datos, nosotros trabajamos con cuatro, por eso las concatenamos.
+
 ![](https://raw.githubusercontent.com/EnriqueIrazoqui/Prevencion-Inteligente-del-Dengue-PID-/main/Imagenes/1.png)
